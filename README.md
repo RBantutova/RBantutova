@@ -1,4 +1,12 @@
-### 👋 Hi there, I am Radina! 
+# 👋 Hi there, I'm Radina
+
+### :sparkles: Junior Front-end engineer
+
+### My main stack:
+🔸 JavaScript
+🔸 Typescript
+🔸 Angular
+🔸 HTML5 & CSS3
 
 <!--
 **RBantutova/RBantutova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
